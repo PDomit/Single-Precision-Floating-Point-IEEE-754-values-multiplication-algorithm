@@ -5,6 +5,6 @@ To use the function in your code you have to:
 
 ![](images/workspace.png)
 
-2) Write the prototype of the function:
+2) Write the prototype of the function (I use uint32_t as a type of returning values because I need to do some logical operations on the results. This is still the same value, but compiler allows me to do some logic operations):
 
 ![](images/prototype.png)
