@@ -5,4 +5,6 @@ To use the function in your code you have to:
 
 ![](images/workspace.png)
 
-2) 
+2) Write the prototype of the function:
+
+![](images/prototype.png)
