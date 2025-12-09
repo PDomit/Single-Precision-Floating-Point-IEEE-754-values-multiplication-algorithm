@@ -2,7 +2,7 @@
  * Function: float32_multi
  * ------------------------
  * Performs multiplication of two 32-bit IEEE-754 floating-point numbers
- * passed in R0 and R1, and returns the result in R0.
+ * passed in R0 and R1 and returns the result in R0.
  *
  * Parameters:
  *   R0 - First operand (float32 in IEEE-754 format)
