@@ -9,6 +9,6 @@ To use the function in your code you have to:
 
 ![](images/prototype.png)
 
-3) Use the function in code:
+3) Use the function in the code:
 
  ![](images/usage.png)
